@@ -1,0 +1,17 @@
+hi| Hello, How are you doing?
+hello| Hi, What are up to?
+always| Can you think of specific example?
+because| Is that the real reason?
+sorry| Please don't apologize.
+maybe| You don't seem very certain.
+i think| Do you really think so?
+you| We were discussing you, not me.
+yes| Why do you think so?
+no| Why not?
+i am| I am sorry to hear you are #
+i'm| I am sorry to hear you are #
+my| Your #
+veryVeryLong| You're making nonsense.
+noReply| What were you saying?
+repeatedSentence| Why did you repeat yourself?
+##% What does that suggest to you?% I see.% I'm not sure I understand you fully.% Can you elaborate?% That is quite interesting%
